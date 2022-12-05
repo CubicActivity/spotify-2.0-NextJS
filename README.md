@@ -4,11 +4,10 @@
 3. type "**npm install**" (to install nextjs and react)
 4. configure .env.local to set the variables in the following way (required for connecting to your spotify account)
 
-
-NEXTAUTH_URL = http://localhost:3000 (for localhost) <br/>
-NEXT_PUBLIC_CLIENT_SECRET = YourPublicClientSecret (Found in spotify dev page hidden hash)<br/>
-NEXT_PUBLIC_CLIENT_ID = YourPublicClientId (Same as your secret, but it's not hidden)<br/>
-JWT_SECRET = some_super_secret_value (Secret value for authentication)<br/>
+  NEXTAUTH_URL = http://localhost:3000 (for localhost) <br/>
+  NEXT_PUBLIC_CLIENT_SECRET = YourPublicClientSecret (Found in spotify dev page hidden hash)<br/>
+  NEXT_PUBLIC_CLIENT_ID = YourPublicClientId (Same as your secret, but it's not hidden)<br/>
+  JWT_SECRET = some_super_secret_value (Secret value for authentication)<br/>
 
 
 
