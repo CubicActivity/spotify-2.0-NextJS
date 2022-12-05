@@ -1,10 +1,13 @@
-To run the app 
-1. npm install (to install nextjs and react)
-2. configure .env.local to set the variables in the following order
-NEXTAUTH_URL = http://localhost:3000 (for localhost)
+**To run the spotify-2.0 app **
+**1.Download and extract the .zip from github**
+**2. npm install (to install nextjs and react)**
+**3. configure .env.local to set the variables in the following order**
+
+
+**NEXTAUTH_URL = http://localhost:3000 (for localhost)
 NEXT_PUBLIC_CLIENT_SECRET = YourPublicClientSecret (Found in spotify dev page hidden hash)
 NEXT_PUBLIC_CLIENT_ID = YourPublicClientId (Same as your secret, but it's not hidden)
-JWT_SECRET = some_super_secret_value (Secret value for authentication)
+JWT_SECRET = some_super_secret_value (Secret value for authentication)**
 
 
 
