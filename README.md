@@ -5,7 +5,7 @@
 4. configure .env.local to set the variables in the following way (required for connecting to your spotify account)
 
 
-NEXTAUTH_URL = http://localhost:3000 (for localhost) \n
+NEXTAUTH_URL = http://localhost:3000 (for localhost) 
 NEXT_PUBLIC_CLIENT_SECRET = YourPublicClientSecret (Found in spotify dev page hidden hash)
 NEXT_PUBLIC_CLIENT_ID = YourPublicClientId (Same as your secret, but it's not hidden)
 JWT_SECRET = some_super_secret_value (Secret value for authentication)
