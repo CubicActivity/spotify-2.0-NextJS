@@ -1,7 +1,6 @@
 **To run the spotify-2.0 app**
 
 1. Download and extract the .zip from github
-<br>
 2. Once you open the project in VScode open the terminal window
 <br>
 3. type "**npm install**" (to install nextjs and react)
