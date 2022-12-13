@@ -1,12 +1,13 @@
-**To run the spotify-2.0 app**
+**To run the spotify-2.0 app**<br>
 
 1. Download and extract the .zip from github
+<br>
 2. Once you open the project in VScode open the terminal window
 <br>
 3. type "**npm install**" (to install nextjs and react)
 <br>
 4. configure .env.local to set the variables in the following way (required for connecting to your spotify account)
-<br>
+<br><br>
 
   NEXTAUTH_URL = http://localhost:3000 (for localhost) <br/><br>
   NEXT_PUBLIC_CLIENT_SECRET = YourPublicClientSecret (Found in spotify dev page hidden hash)<br/><br>
