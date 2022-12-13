@@ -9,7 +9,7 @@
   NEXT_PUBLIC_CLIENT_ID = YourPublicClientId (Same as your secret, but it's not hidden)<br/>
   JWT_SECRET = some_super_secret_value (Secret value for authentication)<br/>
 
-
+<br/>
 
 # Next.js + Tailwind CSS Example
 
