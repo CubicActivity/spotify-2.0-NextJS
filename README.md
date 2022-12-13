@@ -1,5 +1,5 @@
 **To run the spotify-2.0 app**<br>
-
+<br>
 1. Download and extract the .zip from github
 <br>
 2. Once you open the project in VScode open the terminal window
