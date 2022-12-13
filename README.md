@@ -1,4 +1,4 @@
-**To run the spotify-2.0 app**<br>
+**To run the spotify-2.0 app**
 <br>
 1. Download and extract the .zip from github
 <br>
