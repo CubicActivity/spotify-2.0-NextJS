@@ -1,3 +1,6 @@
+//Note that you do need premium spotify for it to play music.
+
+
 **To run the spotify-2.0 app**
 
 1. Download and extract the .zip from github
